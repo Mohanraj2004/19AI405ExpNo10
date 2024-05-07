@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-### Name: DIVYA.K <br>
-### Register Number: 212222230035<br>
+### Name: S.Mohanraj <br>
+### Register Number: 212221230065<br>
 
 # AIM:
 To solve Implementation of Classical Planning Algorithm using python.
